@@ -24,6 +24,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Articles
 
 * [Introducing Alpine.js: A Tiny JavaScript Framework - Smashing Magazine](https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/)
+* [Add Behavior To HTML Using Alpine.js – A Todo App](https://lukasznojek.com/blog/2020/02/add-behavior-to-html-using-alpine-js-a-todo-app/?utm_content=bufferbb4ff&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Build a Dynamic Sign Up Form With Alpine.js - chasingcode.dev](https://chasingcode.dev/blog/build-signup-form-with-alpinejs/)
 * [Alpine.js mixes Vue, React, and minimalism - Paul Krill / InfoWorld](https://www.infoworld.com/article/3527958/alpinejs-mixes-vue-react-and-minimalism.html)
 * [Alpine.js – A rugged, minimal framework for composing JavaScript behavior in your markup. - Bram Van Damme / bram.us](https://www.bram.us/2020/01/14/alpine-js-a-rugged-minimal-framework-for-composing-javascript-behavior-in-your-markup/)
