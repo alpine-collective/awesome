@@ -31,6 +31,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Starting with AlpineJS - Thomas Toledo-Pierre](https://dev.to/nugetchar/starting-with-alpinejs-hjn)
 * [A comparison of a simple app in Vue.js and Alpine.js - Liam Hall](https://medium.com/@wearethreebears/a-comparison-of-a-simple-app-in-vue-js-and-alpine-js-2a8c57f8b0e3)
 * [AlpineJS – a lightweight alternative to Vue - Ben Furfie](https://benfurfie.co.uk/articles/alpinejs-a-lightweight-alternative-to-vue)
+* [Run AlpineJS inside of React - Hugo Di Francesco](https://codewithhugo.com/alpine-js-react/)
 
 ## Videos & Screencasts
 
@@ -44,5 +45,6 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Toolbox - Amrit Nagi](https://www.alpinetoolbox.com/)
 * [AlpineJS meets TailwindCSS - Caneco](https://codepen.io/collection/XqVbyQ)
 * [Alpine.js Examples - Ryan Chandler](https://codepen.io/collection/npdZRm)
+* [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
 
 ## Other
