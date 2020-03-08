@@ -48,3 +48,5 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
 
 ## Other
+
+* [Alpine.js Weekly - Newsletter](https://buttondown.email/alpinejs)
