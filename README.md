@@ -44,7 +44,6 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Alpine Toolbox - Amrit Nagi](https://www.alpinetoolbox.com/)
 * [AlpineJS meets TailwindCSS - Caneco](https://codepen.io/collection/XqVbyQ)
-* [Alpine.js Examples - Ryan Chandler](https://codepen.io/collection/npdZRm)
 * [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
 
 ## Other
