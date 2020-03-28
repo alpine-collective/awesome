@@ -49,3 +49,4 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Other
 
 * [Alpine.js Weekly - Newsletter](https://buttondown.email/alpinejs)
+* [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
