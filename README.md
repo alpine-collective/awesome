@@ -33,6 +33,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [AlpineJS – a lightweight alternative to Vue - Ben Furfie](https://benfurfie.co.uk/articles/alpinejs-a-lightweight-alternative-to-vue)
 * [Run AlpineJS inside of React - Hugo Di Francesco](https://codewithhugo.com/alpine-js-react/)
 
+## Podcasts
+* [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
+* [Caleb Porzio - Just Enough JavaScript with Alpine.js](http://www.fullstackradio.com/132)
+
 ## Videos & Screencasts
 
 * [Alpine.js - a first look - Andre Madarang](https://www.youtube.com/watch?v=2pQ_WDqXkWs)
