@@ -8,6 +8,7 @@ A curated list of [Alpine](https://github.com/alpinejs/alpine) resources.
 
 * [Official Resources](#official-resources)
 * [Articles](#articles)
+* [Podcasts](#podcasts)
 * [Videos & Screencasts](#videos--screencasts)
 * [Examples](#examples)
 * [Other](#other)
