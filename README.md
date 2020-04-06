@@ -11,6 +11,7 @@ A curated list of [Alpine](https://github.com/alpinejs/alpine) resources.
 * [Podcasts](#podcasts)
 * [Videos & Screencasts](#videos--screencasts)
 * [Examples](#examples)
+* [Extensions & Plugins](#extensions--plugins)
 * [Other](#other)
 
 <!-- /TOC -->
@@ -51,7 +52,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [AlpineJS meets TailwindCSS - Caneco](https://codepen.io/collection/XqVbyQ)
 * [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
 
+## Extensions & Plugins
+
+* [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
+
 ## Other
 
 * [Alpine.js Weekly - Newsletter](https://buttondown.email/alpinejs)
-* [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
