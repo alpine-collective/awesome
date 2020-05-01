@@ -55,7 +55,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Extensions & Plugins
 
 * [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
-* [ Alpine.js DevTools - Extension for chrome & firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
+* [Alpine.js DevTools - Extension for Chrome and Firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
 
 
 ## Other
