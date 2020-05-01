@@ -51,11 +51,14 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Toolbox - Amrit Nagi](https://www.alpinetoolbox.com/)
 * [AlpineJS meets TailwindCSS - Caneco](https://codepen.io/collection/XqVbyQ)
 * [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
+* [Click Speed Test - Luciano Felix](https://codepen.io/FelixLuciano/pen/MWavXmy)
 
 ## Extensions & Plugins
 
 * [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
 * [Spruce - a lightweight state management layer](https://github.com/ryangjchandler/spruce)
+* [Alpine.js DevTools - Extension for Chrome and Firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
+
 
 ## Other
 
