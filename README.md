@@ -34,6 +34,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [A comparison of a simple app in Vue.js and Alpine.js - Liam Hall](https://medium.com/@wearethreebears/a-comparison-of-a-simple-app-in-vue-js-and-alpine-js-2a8c57f8b0e3)
 * [AlpineJS – a lightweight alternative to Vue - Ben Furfie](https://benfurfie.co.uk/articles/alpinejs-a-lightweight-alternative-to-vue)
 * [Run AlpineJS inside of React - Hugo Di Francesco](https://codewithhugo.com/alpine-js-react/)
+* [Build an RSS reader with Alpine.js - Codecourse](https://blog.codecourse.com/build-an-rss-reader-with-alpine-js/)
 
 ## Podcasts
 * [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
@@ -45,6 +46,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Building a progressive questionnaire with Alpine JS and Tailwind CSS - Ben Furfie](https://www.youtube.com/watch?v=BTAXnBFJWCY)
 * [JavaScript - Introduction to Alpine.JS - SkillBakery Studio](https://www.youtube.com/channel/UCLTJ8_N2bzhidCNGt_692Ug/search?query=Javascript+-+Learn+Alpine.js)
 * [Learn Alpine JS - Andre Madarang / Scrimba](https://scrimba.com/g/galpinejs)
+* [Learn Alpine.js - Codecourse](https://codecourse.com/courses/learn-alpine-js)
 
 ## Examples
 
