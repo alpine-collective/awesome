@@ -52,6 +52,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [AlpineJS meets TailwindCSS - Caneco](https://codepen.io/collection/XqVbyQ)
 * [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
 * [Click Speed Test - Luciano Felix](https://codepen.io/FelixLuciano/pen/MWavXmy)
+* [Dynamic Form Fields - Sanjay Ojha](https://codepen.io/sanjayojha/pen/qBONdVm)
 
 ## Extensions & Plugins
 
