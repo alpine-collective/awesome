@@ -33,8 +33,11 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Starting with AlpineJS - Thomas Toledo-Pierre](https://dev.to/nugetchar/starting-with-alpinejs-hjn)
 * [A comparison of a simple app in Vue.js and Alpine.js - Liam Hall](https://medium.com/@wearethreebears/a-comparison-of-a-simple-app-in-vue-js-and-alpine-js-2a8c57f8b0e3)
 * [AlpineJS – a lightweight alternative to Vue - Ben Furfie](https://benfurfie.co.uk/articles/alpinejs-a-lightweight-alternative-to-vue)
-* [Run AlpineJS inside of React - Hugo Di Francesco](https://codewithhugo.com/alpine-js-react/)
+* [Run Alpine.js inside of React - Code with Hugo](https://codewithhugo.com/alpine-js-react/)
 * [Build an RSS reader with Alpine.js - Codecourse](https://blog.codecourse.com/build-an-rss-reader-with-alpine-js/)
+* [Alpine.js: The JavaScript Framework That’s Used Like jQuery, Written Like Vue, and Inspired by TailwindCSS - CSS Tricks](https://css-tricks.com/alpine-js-the-javascript-framework-thats-used-like-jquery-written-like-vue-and-inspired-by-tailwindcss/)
+* [Practical Alpine.js: x-data data access & data fetching examples - Code with Hugo](https://codewithhugo.com/alpinejs-x-data-fetching/)
+* [Synchronize x-data and the URL in Alpine.js with the location/History APIs and $watch - Code with Hugo](https://codewithhugo.com/alpinejs-x-data-watch-url/)
 
 ## Podcasts
 * [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
@@ -52,7 +55,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Alpine Toolbox - Amrit Nagi](https://www.alpinetoolbox.com/)
 * [AlpineJS meets TailwindCSS - Caneco](https://codepen.io/collection/XqVbyQ)
-* [AlpineJS Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
+* [Alpine.js Playground - Hugo Di Francesco](https://github.com/HugoDF/alpinejs-playground)
 * [Click Speed Test - Luciano Felix](https://codepen.io/FelixLuciano/pen/MWavXmy)
 * [Dynamic Form Fields - Sanjay Ojha](https://codepen.io/sanjayojha/pen/qBONdVm)
 
@@ -61,8 +64,9 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
 * [Spruce - a lightweight state management layer](https://github.com/ryangjchandler/spruce)
 * [Alpine.js DevTools - Extension for Chrome and Firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
+* [Alpine Test Utils - Utilities for testing Alpine.js components](https://github.com/HugoDF/alpine-test-utils)
 
 
 ## Other
 
-* [Alpine.js Weekly - Newsletter](https://buttondown.email/alpinejs)
+* [Alpine.js Weekly - Newsletter](https://alpinejs.codewithhugo.com/newsletter)
