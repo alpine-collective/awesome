@@ -50,6 +50,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [JavaScript - Introduction to Alpine.JS - SkillBakery Studio](https://www.youtube.com/channel/UCLTJ8_N2bzhidCNGt_692Ug/search?query=Javascript+-+Learn+Alpine.js)
 * [Learn Alpine JS - Andre Madarang / Scrimba](https://scrimba.com/g/galpinejs)
 * [Learn Alpine.js - Codecourse](https://codecourse.com/courses/learn-alpine-js)
+* [Alpine.js Essentials - Jeffrey Way / Laracasts](https://laracasts.com/series/alpine-essentials)
 
 ## Examples
 
