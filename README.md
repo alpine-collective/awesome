@@ -51,6 +51,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Learn Alpine JS - Andre Madarang / Scrimba](https://scrimba.com/g/galpinejs)
 * [Learn Alpine.js - Codecourse](https://codecourse.com/courses/learn-alpine-js)
 * [Alpine.js Essentials - Jeffrey Way / Laracasts](https://laracasts.com/series/alpine-essentials)
+* [Sprinkle declarative, reactive behaviour on your HTML with Alpine JS - Simon Vrachliotis](https://egghead.io/playlists/sprinkle-declarative-reactive-behaviour-on-your-html-with-alpine-js-5f8b)
 
 ## Examples
 
