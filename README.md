@@ -74,3 +74,4 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 ## Other
 
 * [Alpine.js Weekly - Newsletter](https://alpinejs.codewithhugo.com/newsletter)
+* [Alpine.js Discord Community](https://discord.gg/CGmj5nq)
