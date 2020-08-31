@@ -39,6 +39,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Practical Alpine.js: x-data data access & data fetching examples - Code with Hugo](https://codewithhugo.com/alpinejs-x-data-fetching/)
 * [Synchronize x-data and the URL in Alpine.js with the location/History APIs and $watch - Code with Hugo](https://codewithhugo.com/alpinejs-x-data-watch-url/)
 * [Creating Custom Magic Variables in Alpine.js - Ryan Chandler](https://ryangjchandler.co.uk/articles/creating-custom-magic-variables-in-alpinejs)
+* [Writing Reusable Alpine Components - Ryan Chandler](https://ryangjchandler.co.uk/articles/writing-reusable-alpine-components)
 
 ## Podcasts
 * [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
