@@ -65,6 +65,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Click Speed Test - Luciano Felix](https://codepen.io/FelixLuciano/pen/MWavXmy)
 * [Dynamic Form Fields - Sanjay Ojha](https://codepen.io/sanjayojha/pen/qBONdVm)
 * [Ridge.css - A maximalist css framework with Alpine.js markup - Sean Walker](https://github.com/swlkr/ridgecss)
+* [Progressive enhacement with Alpine.js - Cart fragment example](https://github.com/nicolasdelfino/pe-alpine)
 
 ## Extensions & Plugins
 
