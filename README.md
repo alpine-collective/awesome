@@ -42,6 +42,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Writing Reusable Alpine Components - Ryan Chandler](https://ryangjchandler.co.uk/articles/writing-reusable-alpine-components)
 * [Authoring progressive enhanced fragments with Alpine - Nicolás Delfino](https://www.nicolasdelfino.com/blog/progressive-enhancement-scs)
 * [Build a Remaining Character Count Component with Alpine.js - Ryan Chandler](https://ryangjchandler.co.uk/articles/build-a-remaining-character-count-component-with-alpinejs)
+* [How to Use Cookies With AlpineJS - Peter Thaleikis](https://releasecandidate.dev/posts/2021/how-to-use-cookies-with-alpinejs/)
 
 ## Podcasts
 * [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
