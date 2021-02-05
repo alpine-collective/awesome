@@ -75,6 +75,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
 * [Spruce - a lightweight state management layer](https://github.com/ryangjchandler/spruce)
 * [Alpine.js DevTools - Extension for Chrome and Firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
+* [Alpine.js Magic Helpers - A collection of magic properties and helper functions for use with Alpine](https://github.com/alpine-collective/alpine-magic-helpers)
 * [Alpine Test Utils - Utilities for testing Alpine.js components](https://github.com/HugoDF/alpine-test-utils)
 
 
