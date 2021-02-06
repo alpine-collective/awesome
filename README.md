@@ -69,6 +69,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Ridge.css - A maximalist css framework with Alpine.js markup - Sean Walker](https://github.com/swlkr/ridgecss)
 * [Progressive enhancement with Alpine.js - Cart fragment example](https://github.com/nicolasdelfino/pe-alpine)
 * [LittleBigTable - A flexible Alpine.js table](https://github.com/indgy/LittleBigTable)
+* [NESHouse.com —— An open source implementation of ClubHouse](https://github.com/bestony/neshouse)
 
 ## Extensions & Plugins
 
