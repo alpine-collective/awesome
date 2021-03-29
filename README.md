@@ -74,12 +74,25 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Extensions & Plugins
 
-* [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
-* [Spruce - a lightweight state management layer](https://github.com/ryangjchandler/spruce)
+### Browser & Editor Extensions
+
 * [Alpine.js DevTools - Extension for Chrome and Firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
-* [Alpine.js Magic Helpers - A collection of magic properties and helper functions for use with Alpine](https://github.com/alpine-collective/alpine-magic-helpers)
+* [Alpine.js IntelliSense - Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
+
+### Additional Libraries
+
+* [Spruce - a lightweight state management layer](https://github.com/ryangjchandler/spruce)
 * [Alpine Test Utils - Utilities for testing Alpine.js components](https://github.com/HugoDF/alpine-test-utils)
 
+### Directives
+
+* [x-else directive - Ryan Chandler](https://github.com/ryangjchandler/x-else)
+
+### Magic helpers
+
+* [Alpine.js Magic Helpers - A collection of magic properties and helper functions for use with Alpine](https://github.com/alpine-collective/alpine-magic-helpers)
+* [$clipboard magic helper - Ryan Chandler](https://github.com/ryangjchandler/alpine-clipboard)
+* [$toggle magic helper - Ryan Chandler](https://github.com/ryangjchandler/alpine-toggle)
 
 ## Other
 
