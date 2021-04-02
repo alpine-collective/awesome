@@ -79,6 +79,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine.js DevTools - Extension for Chrome and Firefox](https://github.com/Te7a-Houdini/alpinejs-devtools)
 * [Alpine.js Magic Helpers - A collection of magic properties and helper functions for use with Alpine](https://github.com/alpine-collective/alpine-magic-helpers)
 * [Alpine Test Utils - Utilities for testing Alpine.js components](https://github.com/HugoDF/alpine-test-utils)
+* [Vue2-Animate - A lightweight animate.css transition tools also works with Alpine.js](https://github.com/asika32764/vue2-animate#work-with-alpinejs)
 
 
 ## Other
