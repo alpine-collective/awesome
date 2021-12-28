@@ -20,6 +20,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 ## Official Resources
 
+* [Alpine Website](https://alpinejs.dev)
 * [Alpine GitHub](https://github.com/alpinejs/alpine)
 * [Alpine Twitter](https://twitter.com/Alpine_JS)
 
