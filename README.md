@@ -80,6 +80,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine.js Magic Helpers - A collection of magic properties and helper functions for use with Alpine](https://github.com/alpine-collective/alpine-magic-helpers)
 * [Alpine Test Utils - Utilities for testing Alpine.js components](https://github.com/HugoDF/alpine-test-utils)
 * [Pinecone Router - Client-side router for Alpine.js](https://github.com/pinecone-router/router)
+* [Alpine.js Tash - Render data in moustache syntax](https://github.com/markmead/alpinejs-tash)
 
 ## Other
 
