@@ -82,6 +82,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Test Utils - Utilities for testing Alpine.js components](https://github.com/HugoDF/alpine-test-utils)
 * [Pinecone Router - Client-side router for Alpine.js](https://github.com/pinecone-router/router)
 * [Alpine.js Tash - Render data in moustache syntax](https://github.com/markmead/alpinejs-tash)
+* [Alpine Wizard - Build multi-step wizards with Alpine.js](https://github.com/glhd/alpine-wizard)
 
 ## Other
 
