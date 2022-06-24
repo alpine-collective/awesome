@@ -83,6 +83,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Pinecone Router - Client-side router for Alpine.js](https://github.com/pinecone-router/router)
 * [Alpine.js Tash - Render data in moustache syntax](https://github.com/markmead/alpinejs-tash)
 * [Alpine Wizard - Build multi-step wizards with Alpine.js](https://github.com/glhd/alpine-wizard)
+* [Alpine $fetch - A magic helper to integrate HTTP fetch requests directly within Alpine.js markup](https://github.com/hankhank10/alpine-fetch)
 
 ## Other
 
