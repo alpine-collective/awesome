@@ -6,14 +6,13 @@ A curated list of [Alpine](https://github.com/alpinejs/alpine) resources.
 
 <!-- TOC -->
 
-- [Awesome Alpine ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-alpine-)
-  - [Official Resources](#official-resources)
-  - [Articles](#articles)
-  - [Podcasts](#podcasts)
-  - [Videos & Screencasts](#videos--screencasts)
-  - [Examples](#examples)
-  - [Extensions & Plugins](#extensions--plugins)
-  - [Other](#other)
+* [Official Resources](#official-resources)
+* [Articles](#articles)
+* [Podcasts](#podcasts)
+* [Videos & Screencasts](#videos--screencasts)
+* [Examples](#examples)
+* [Extensions & Plugins](#extensions--plugins)
+* [Other](#other)
 
 <!-- /TOC -->
 
