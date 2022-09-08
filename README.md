@@ -6,13 +6,14 @@ A curated list of [Alpine](https://github.com/alpinejs/alpine) resources.
 
 <!-- TOC -->
 
-* [Official Resources](#official-resources)
-* [Articles](#articles)
-* [Podcasts](#podcasts)
-* [Videos & Screencasts](#videos--screencasts)
-* [Examples](#examples)
-* [Extensions & Plugins](#extensions--plugins)
-* [Other](#other)
+- [Awesome Alpine ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-alpine-)
+  - [Official Resources](#official-resources)
+  - [Articles](#articles)
+  - [Podcasts](#podcasts)
+  - [Videos & Screencasts](#videos--screencasts)
+  - [Examples](#examples)
+  - [Extensions & Plugins](#extensions--plugins)
+  - [Other](#other)
 
 <!-- /TOC -->
 
@@ -46,8 +47,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [How to Use Cookies With AlpineJS - Peter Thaleikis](https://releasecandidate.dev/posts/2021/how-to-use-cookies-with-alpinejs/)
 
 ## Podcasts
+
 * [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
 * [Caleb Porzio - Just Enough JavaScript with Alpine.js](http://www.fullstackradio.com/132)
+* [Caleb Porzio on Alpine.js, Laravel Livewire & more - Remote Ruby](https://remoteruby.com/194)
 
 ## Videos & Screencasts
 
