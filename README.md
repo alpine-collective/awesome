@@ -46,8 +46,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [How to Use Cookies With AlpineJS - Peter Thaleikis](https://releasecandidate.dev/posts/2021/how-to-use-cookies-with-alpinejs/)
 
 ## Podcasts
+
 * [Alpine.js is like Tailwind CSS for JavaScript](https://devmode.fm/episodes/alpine-js-is-like-tailwind-css-for-javascript)
 * [Caleb Porzio - Just Enough JavaScript with Alpine.js](http://www.fullstackradio.com/132)
+* [Caleb Porzio on Alpine.js, Laravel Livewire & more - Remote Ruby](https://remoteruby.com/194)
 
 ## Videos & Screencasts
 
