@@ -90,6 +90,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Autosize - Directive for autosizing textareas](https://github.com/marcreichel/alpine-autosize)
 * [Alpine Timeago - Display the human-readable distance between a date and now](https://github.com/marcreichel/alpine-timeago)
 * [Alpine Auto Animate - Thin Alpine wrapper for @formkit/auto-animate](https://github.com/marcreichel/alpine-auto-animate)
+* [Alpine Typewrite - Add a typewriter animation to any HTML element](https://github.com/marcreichel/alpine-typewriter)
 
 ## Other
 
