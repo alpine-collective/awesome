@@ -88,6 +88,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine $fetch - A magic helper to integrate HTTP fetch requests directly within Alpine.js markup](https://github.com/hankhank10/alpine-fetch)
 * [alpinejs-router - Easy to use and flexible router for Alpine.js, support dynamic route matching with params](https://github.com/shaunlee/alpinejs-router)
 * [Alpine Autosize - Directive for autosizing textareas](https://github.com/marcreichel/alpine-autosize)
+* [Alpine Timeago - Display the human-readable distance between a date and now](https://github.com/marcreichel/alpine-timeago)
 * [Alpine Auto Animate - Thin Alpine wrapper for @formkit/auto-animate](https://github.com/marcreichel/alpine-auto-animate)
 
 ## Other
