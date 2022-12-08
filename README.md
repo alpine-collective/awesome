@@ -12,6 +12,7 @@ A curated list of [Alpine](https://github.com/alpinejs/alpine) resources.
 * [Videos & Screencasts](#videos--screencasts)
 * [Examples](#examples)
 * [Extensions & Plugins](#extensions--plugins)
+* [UI Frameworks](#ui-frameworks)
 * [Other](#other)
 
 <!-- /TOC -->
@@ -91,6 +92,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Timeago - Display the human-readable distance between a date and now](https://github.com/marcreichel/alpine-timeago)
 * [Alpine Auto Animate - Thin Alpine wrapper for @formkit/auto-animate](https://github.com/marcreichel/alpine-auto-animate)
 * [Alpine Typewrite - Add a typewriter animation to any HTML element](https://github.com/marcreichel/alpine-typewriter)
+
+## UI Frameworks
+
+* [Vimesh UI - Agile UI framework for Alpine.js](https://github.com/vimeshjs/vimesh-ui)
 
 ## Other
 
